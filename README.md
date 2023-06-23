@@ -1,1 +1,1 @@
-# Nuxt Auth Tutorial
+# Nuxt Auth Guide
